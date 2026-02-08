@@ -63,7 +63,7 @@ The [inverse versed cosine][inverse-versed-cosine] is defined as
 ## Usage
 
 ```javascript
-import avercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-avercosf@deno/mod.js';
+import avercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-avercosf@v0.1.1-deno/mod.js';
 ```
 
 #### avercosf( x )
@@ -107,7 +107,7 @@ v = avercosf( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import avercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-avercosf@deno/mod.js';
+import avercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-avercosf@v0.1.1-deno/mod.js';
 
 var x = uniform( 100, -2.0, 0.0, {
     'dtype': 'float32'
