@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-08-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1d63259`](https://github.com/stdlib-js/stdlib/commit/1d6325966f4f990a577246f4f0bbcef9a41d2a42) - **test:** migrate `math/base/special/avercosf` to ULP difference testing [(#13818)](https://github.com/stdlib-js/stdlib/pull/13818) _(by Arjan-P)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Arjan-P
 -   Karan Anand
 
 </section>
